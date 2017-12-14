@@ -1,0 +1,25 @@
+{
+  "name": "find-my-iphone-example",
+  "version": "0.0.1",
+  "description": "Play sound on your iOS device",
+  "main": "index.js",
+  "dependencies": {
+    "find-my-iphone": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Toshiya SAITOH <stoshiya@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/stoshiya/find-my-iphone-example"
+  },
+  "keywords": [
+    "node.js",
+    "iphone",
+    "play",
+    "sound"
+  ]
+}
